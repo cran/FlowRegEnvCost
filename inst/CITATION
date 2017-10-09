@@ -1,0 +1,23 @@
+citHeader("To cite package 'FlowRegEnvCost' in publications use:")
+
+citEntry(entry="Article",
+title="The Environmental Costs of Water Flow Regulation: an Innovative Approach Based on the 'Polluter Pays' Principle",
+
+author= personList(as.person("Silvestre Garc{\'i}a de Jal{\'o}n"),
+as.person("Marta Gonz{\'a}lez del T{\'a}nago"),
+as.person("Carlos Alonso"),
+as.person("Diego Garc{\'i}a de Jal{\'o}n")),
+
+journal="Water Resources Management",
+year="2017",
+month="Jul",
+day="01",
+volume="31",
+number="9",
+pages="2809--2822",
+issn="1573-1650",
+doi="10.1007/s11269-017-1663-0",
+url="https://doi.org/10.1007/s11269-017-1663-0",
+
+textVersion =  paste("García de Jalón S, González del Tánago M, Alonso C, García de Jalón D (2017) The environmental costs of water flow regulation: an innovative approach based on the 'polluter pays' principle. Water Resources Management 31 (9): 2809–2822. DOI: 10.1007/s11269-017-1663-0.")
+)
